@@ -21,6 +21,7 @@
     "class-variance-authority": "^0.7.0",
     "cloudinary": "^2.0.1",
     "clsx": "^2.1.0",
+    "github-fork-ribbon-css": "^0.2.3",
     "lucide-react": "^0.323.0",
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.3",

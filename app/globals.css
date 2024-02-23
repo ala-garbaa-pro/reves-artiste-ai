@@ -76,7 +76,7 @@
 }
 
 .auth {
-  @apply flex-center min-h-screen w-full bg-purple-100
+  @apply flex-center min-h-screen w-full bg-purple-100;
 }
 
 .root {
@@ -84,7 +84,7 @@
 }
 
 .root-container {
-  @apply mt-16 flex-1 overflow-auto py-8 lg:mt-0 lg:max-h-screen lg:py-10
+  @apply mt-16 flex-1 overflow-auto py-8 lg:mt-0 lg:max-h-screen lg:py-10;
 }
 
 /* ========================================== TAILWIND STYLES */
@@ -373,4 +373,12 @@
   font-size: 16px;
   font-weight: 600;
   color: #384262;
+}
+
+.github-fork-ribbon:before {
+  background-color: #e5c915 !important;
+}
+
+.github-fork-ribbon:after {
+  color: black !important;
 }
